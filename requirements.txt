@@ -1,0 +1,10 @@
+langchain_core
+langchain
+streamlit
+sounddevice
+soundfile
+pyttsx3
+python-dotenv
+langchain-groq
+SpeechRecognition
+glob
