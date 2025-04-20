@@ -50,5 +50,23 @@ streamlit run app.py
 
 ---
 
-##  File Structure
+**## File Structure**
+
+├── app.py                 # Main Streamlit app
+├── audio_utils.py         # Audio recording, transcription, TTS, file cleanup
+├── .env                   # API keys (not committed)
+├── requirements.txt       # Python dependencies
+
+---
+
+**## 📌 Use Cases**
+
+GenAI personal voice assistant
+
+Accessibility-focused voice-based AI
+
+Customer service agent prototype
+
+Conversational AI for kiosks/devices
+
 
