@@ -91,5 +91,5 @@ streamlit run app.py
 
 ## 🙌 Credits
 
-Built by [Dhananjay Gaikwad](https://github.com/djgaikwad)  
+Built by [Dhananjay Gaikwad](https://linkedin.com/in/djgaikwad)  
 Powered by Groq, LangChain, and Streamlit
