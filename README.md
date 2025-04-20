@@ -1,7 +1,3 @@
-Sure! Here's your polished `README.md` in **one shot**, ready to copy-paste into your GitHub repo 👇
-
----
-
 ```markdown
 # 🧠 GenAI Voice Assistant (LangChain + Groq + Streamlit)
 
