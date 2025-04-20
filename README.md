@@ -48,5 +48,7 @@ GROQ_API_KEY=your_groq_key
 
 streamlit run app.py
 
-# File Structure
+---
+
+##  File Structure
 
