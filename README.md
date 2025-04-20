@@ -1,4 +1,3 @@
-```markdown
 # 🧠 GenAI Voice Assistant (LangChain + Groq + Streamlit)
 
 A conversational **voice assistant** built using **LangChain**, **Groq's Qwen LLM**, **Streamlit**, and audio processing tools. The assistant enables natural spoken interaction with an AI agent — record your voice, transcribe it, generate a response, and hear the AI speak back!
